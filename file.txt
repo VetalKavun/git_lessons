@@ -5,3 +5,4 @@ fix
 fix --no-ff
 fix2 --no-ff
 master commit1
+master commit2
