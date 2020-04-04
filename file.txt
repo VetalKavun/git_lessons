@@ -6,3 +6,5 @@ fix --no-ff
 fix2 --no-ff
 master commit1
 master commit2
+feature commit1
+feature commit2
