@@ -3,3 +3,4 @@ hello
 feature commit1
 feature commit2
 fA commit
+fa commit2
