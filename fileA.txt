@@ -4,3 +4,5 @@ feature commit1
 feature commit2
 master commit1
 master commit2
+fA commit
+fa commit2
