@@ -8,3 +8,4 @@ master commit1
 master commit2
 feature commit1
 feature commit2
+changes from another git user
